@@ -2,7 +2,7 @@
 
 用麦当劳中国官方 MCP 服务完成营养查询、活动日历、麦麦省优惠券、积分、麦麦商城商品与订单、门店与菜单查询，以及到店自取、得来速、麦乐送、企业团餐的点餐计价下单、一键领券、积分兑换虚拟券或实物商品。
 
-技能本身不绑定任何特定 Agent 框架：[SKILL.md](SKILL.md) 与 [references/tools.md](references/tools.md) 全程用官方工具名（`query-meals`、`calculate-price` 等）描述流程，因此可以接入任何支持 MCP 的框架——Claude Code、Cursor、Cline、OpenClaw、Claude Agent SDK、Hermes 等。
+[SKILL.md](SKILL.md) 与 [references/tools.md](references/tools.md) 全程用官方工具名（`query-meals`、`calculate-price` 等）描述流程
 
 ## 仓库结构
 
